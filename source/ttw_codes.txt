@@ -1,0 +1,3 @@
+# Wonderlands Save Editor item codes - one per line:   Name = BL3(...)
+# Export codes from the PC save editor (Wonderlands items use the same BL3(...) format). Lines starting with # are ignored.
+# Borderlands 3 item codes will show "invalid code" here - they have to be Wonderlands items.
