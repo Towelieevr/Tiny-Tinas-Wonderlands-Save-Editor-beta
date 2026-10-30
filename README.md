@@ -12,8 +12,6 @@ In-game save editor plugin for Tiny Tina's Wonderlands on jailbroken PS4s with G
 
 Grab the zip from [Releases](https://github.com/Towelieevr/Tiny-Tinas-Wonderlands-Save-Editor-beta/releases).
 
-If you use the **Toweliee's Save Editors** installer app, choose **Check for updates online** and it will download new versions from this repo by itself.
-
 ## Install
 
 1. Copy the `GoldHEN` folder from the zip to `/data/GoldHEN/` on your PS4 over FTP (`ttw_editor.prx` goes in `plugins/`; the icon and `ttw_codes.txt` go in `/data/GoldHEN/`).
